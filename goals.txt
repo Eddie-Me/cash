@@ -1,0 +1,8 @@
+Inventory with items and prices
+DONE
+
+within a loop that asks for user input (what do they wish to purchase), "quit" = end loop
+Working on it, also did the Show Inventory funtion to show the user what options we have available and the prices
+
+display the user's SHOPPING CAR 
+Done
